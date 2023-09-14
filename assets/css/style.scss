@@ -5,8 +5,12 @@ h1 {
 a, a:hover {color: white;}
 
  }
+.page-header { background-image: linear-gradient(135deg, dodgerblue, green); }
+
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 3rem 6rem;
   }
 }
+
+.main-content { h1,h1,h3,h4,h5,h6 { color: #115115; } }
