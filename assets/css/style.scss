@@ -5,3 +5,8 @@ h1 {
 a, a:hover {color: white;}
 
  }
+@media screen and (min-width: 64em) {
+  .page-header {
+    padding: 3rem 6rem;
+  }
+}
