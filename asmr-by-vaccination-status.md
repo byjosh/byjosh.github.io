@@ -1,8 +1,8 @@
 
 ## Age standardised mortality by vaccination status
 <span id="main"></span>
-At the bottom is [R code](/#the-code) to produce age standardised mortality rate
-(ASMR) by vaccination status plots for [the data source](/#the-data).
+At the bottom is [R code](#the-code) to produce age standardised mortality rate
+(ASMR) by vaccination status plots for [the data source](#the-data).
 
 ## Confidence intervals for the novice
 
