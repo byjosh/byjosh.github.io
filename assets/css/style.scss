@@ -1,27 +1,46 @@
----
---- 
-@import "{{ site.theme }}";
-h1 { 
-a, a:hover {color: white;}
+--- --- @import "{{ site.theme }}";
 
- }
-.page-header { background-image: linear-gradient(135deg, dodgerblue, green); }
+h1 {
+
+  a,
+  a:hover {
+    color: white;
+  }
+
+}
+
+.page-header {
+  background-image: linear-gradient(135deg, dodgerblue, green);
+}
 
 @media screen and (min-width: 64em) {
   .page-header {
     padding: 3rem 6rem;
   }
 }
+
 a.external {
   background-image: url(/assets/img/uploads/external_arrow.svg);
   background-position: center right;
   background-size: 1.75em;
   padding-right: 1.95em;
   background-repeat: no-repeat;
- 
-}
-.main-content { 
-h1,h2,h3,h4,h5,h6 { color: #595959; }
-details, summary { display: list-item; }
 
- }
+}
+
+.main-content {
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    color: #595959;
+  }
+
+  summary {
+    display: list-item;
+  }
+
+}

@@ -20,10 +20,10 @@
   <header class="page-header" role="banner">
 
     <h1 class="project-name">
-     
+
       <a href="{{ '/' | absolute_url }}"> {{ default: site.title | default: site.github.repository_name }}</a>
       {% if page.title and page.name != "index.md" %}
-       - {{ page.title }}
+      : {{ page.title }}
       {% endif %}
     </h1>
 
