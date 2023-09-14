@@ -1,4 +1,6 @@
-
+---
+title: Age standardised mortality rate by COVID-19 vaccination status - in charts
+---
 ## Age standardised mortality by vaccination status
 <span id="main"></span>
 At the bottom is [R code](#the-code) to produce age standardised mortality rate
