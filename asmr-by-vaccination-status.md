@@ -1,8 +1,8 @@
 
 ## Age standardised mortality by vaccination status
 <span id="main"></span>
-At the bottom is R code to produce age standardised mortality rate
-(ASMR) by vaccination status plots for the data source.
+At the bottom is [R code](/#the-code) to produce age standardised mortality rate
+(ASMR) by vaccination status plots for [the data source](/#the-data).
 
 ## Confidence intervals for the novice
 
@@ -59,6 +59,8 @@ affect ability to access both the vaccine - and other medical care (with
 lack of this other medical care driving the higher all cause mortality).
 
 Given the body of evidence regarding vaccines and the overall picture in the graphs that a doubling of all cause mortality in the unvaccinated compared to vaccinated see an increase greater than a doubling of deaths involving COVID-19 we can discard the idea that higher deaths involving COVID-19 is due entirely to hospital aquired COVID-19 - that the unvaccinated get through need for more frequent admissions for non-COVID related reasons. But that doesn't mean that the entire difference between the groups seen in the graphs above is due to the effect of the vaccine alone - for instance the vaccinated groups may also have greater ability to shield themselves from infection - e.g. by working from home or being able to afford high quality masks - or greater propensity (e.g. by social distancing and wearing masks). 
+
+<a href="#main" class="totop">Back to top</a>
 
 ## The code
 
@@ -147,3 +149,4 @@ for( g in c("18-39","40-49","50-59","60-69","70-79","80-89","90+")) {
 }
 ```
 
+<a href="#main" class="totop">Back to top</a>
