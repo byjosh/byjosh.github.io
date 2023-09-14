@@ -1,6 +1,8 @@
-There is quite a collection available online. Besides some Cambridge University Press books (noted as available as alumni benefits to those who went there) otherwise and to the best of my knowledge: these are all made freely available by the author (however the disclaimer applies that these are external sites not under my control - so make your own judgements and use at your own risk).
+There is quite a collection available online (for your chosen language I assume you can assemble more). I assembled this list mostly in the context of learning R - with a particular focus on books that had also been published by [O'Reilly](https://www.oreilly.com/).
 
-O’Reilly publications marked in parentheses - for those new to programming books: an O’Reilly publication is both something of a minimum quality guarantee (involving as it will professional editors) and so ubiquitous that there is a [parody O RLY Cover Generator](https://dev.to/rly) and [repository of covers sending up various aspects of programming culture](https://github.com/thepracticaldev/orly-full-res). 
+Besides some Cambridge University Press books (noted as available as alumni benefits to those who went there) otherwise and to the best of my knowledge: these are all made freely available by the author (however the disclaimer applies that these are external sites not under my control - so make your own judgements and use at your own risk).
+
+Books available as O’Reilly publications marked in parentheses (the version linked to is not the O'Reilly publication itself usually but rather the author's copy of their book - which has been published by O'Reilly). For those new to programming books: an O’Reilly publication is both something of a minimum quality guarantee (involving as it will professional editors) and so ubiquitous that there is a [parody O RLY Cover Generator](https://dev.to/rly) and [repository of covers sending up various aspects of programming culture](https://github.com/thepracticaldev/orly-full-res). 
 
 
 ## Python 
