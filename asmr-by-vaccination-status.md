@@ -1,15 +1,3 @@
----
-layout: page
-title: ASMR by vaccination status
-meta_description: |
-  This sets the meta description in the head of the page. You can watch the 
-  output in the browser or in the generated file _site/about.html.
-permalink: /asmr-by-vaccination-status
-toc: true
-published: true
----
-
-{% include toc.md %}
 
 ## Age standardised mortality by vaccination status
 
@@ -19,7 +7,7 @@ At the bottom is R code to produce age standardised mortality rate
 ## Confidence intervals for the novice
 
 
-{::nomarkdown} 
+
 <details open="">
 <summary><em>click to close this explanation if familiar with error bars and confidence intervals</em>
 </summary>
@@ -33,7 +21,7 @@ As examples in the 18-39yr olds second dose at least 21 days ago vs unvaccinated
 <li> for December 2021 those meeting the criteria for deaths involving COVID-19 (see below) have clearly distinct lines with clearly non-overlapping confidence intervals - we can reject the idea that that risk of death while with an acute COVID infection (my reading of the definition in next section) is the same for both groups.
 </ul>
 </details>
-{:/nomarkdown}
+
 
 ## The data
 
