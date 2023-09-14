@@ -78,7 +78,10 @@ I say "Automated Statistics" as [Timothy Niven and Hung-Yu Kao. 2019. Probing Ne
 Not freely available like most books on this page - but if one qualifies for University of Cambridge alumni benefits then these might be worth a look.
 
 * [A First Course in Statistical Programming with R (3rd edition)](https://www.cambridge.org/highereducation/books/a-first-course-in-statistical-programming-with-r/0CEDD40A37D273025535A03F1156A2CF#overview) (the [2nd edition is downloadable as PDFs unlike the 3rd edition ](https://www.cambridge.org/core/books/first-course-in-statistical-programming-with-r/2160702CBAAC2D3CE9204EC5D46260BA) - which may suit those with ereaders)
-
-* [Back to home page](/)
 * [Learning Scientific Programming with Python - 2nd edition](https://www.cambridge.org/core/books/learning-scientific-programming-with-python/DEFE574792AE43C8B9AD23C8C39AB87F)
 * [An Introduction to Python Programming for Scientists and Engineers](https://www.cambridge.org/highereducation/books/an-introduction-to-python-programming-for-scientists-and-engineers/271C02A02E8B775066316E92A68E187A#overview)
+
+**[Back to top](/programming-ebooks-online#)**
+
+**[Back to home page](/)**
+
