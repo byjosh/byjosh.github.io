@@ -150,3 +150,5 @@ for( g in c("18-39","40-49","50-59","60-69","70-79","80-89","90+")) {
 ```
 
 <a href="#main" class="totop">Back to top</a>
+
+<a href="/" class="totop">Back to home page</a>
