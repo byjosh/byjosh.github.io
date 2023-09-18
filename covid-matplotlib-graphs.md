@@ -1,5 +1,5 @@
 
-I used a combination of <a class="external" href="https://matplotlib.org/">Matplotlib</a> (a graphics package for Python), <a class="external" href="https://flask.palletsprojects.com/">Flask</a> (micro webframework for Python that has been used by><a class="external" href="https://www.youtube.com/watch?v=OXN3wuHUBP0#t=46">LinkedIn</a>) and <a class="external" href="https://www.heroku.com">Heroku</a> (before Heroku axed the free tier) to do a variety of graphs earlier in the pandemic (before the free COVID testing for the general public was scrapped). 
+I used a combination of <a class="external" href="https://matplotlib.org/">Matplotlib</a> (a graphics package for Python), <a class="external" href="https://flask.palletsprojects.com/">Flask</a> (micro webframework for Python that has been used by a company as big as <a class="external" href="https://www.youtube.com/watch?v=OXN3wuHUBP0#t=46">LinkedIn</a>) and <a class="external" href="https://www.heroku.com">Heroku</a> (for being able to put them online - before Heroku axed their free tier) to do a variety of graphs earlier in the pandemic. 
 
 ## Dual axis charts
 
