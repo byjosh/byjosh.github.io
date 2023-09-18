@@ -30,7 +30,7 @@ A more prosaic use of plotting dual axes shows the rolling 7 day average and the
 <caption>This graph shows rolling 7 day average cases for the UK and the figures by publication date - the broad difference being due to new cases being reported on a weekly basis. (The green line is the triangles and the blue line is the dotted line).</caption>
 </figure>
 <figure>
-<img alt="Starting at the beginning of the COVID-19 pandemic in UK in 2020 this shows the cases by publication date and the rolling 7 day average are close - until earlier 2022 when the figures are updated weekly which shows as a wildly oscillating green line - which has previous mirrored the blue dotted line of the rolling average quiet closely."src="/assets/img/uploads/covid_matplotlib_graphs/cases_all-2022-10-12.svg">
+<img alt="Starting at the beginning of the COVID-19 pandemic in UK in 2020 this shows the cases by publication date and the rolling 7 day average are close - until earlier 2022 when the figures are updated weekly which shows as a wildly oscillating green line - which has previous mirrored the blue dotted line of the rolling average quiet closely." src="/assets/img/uploads/covid_matplotlib_graphs/cases_all-2022-10-12.svg">
 <caption>This graph shows rolling 7 day average cases for the UK and the figures by publication date - the transition to weekly reporting shows up clearly as a divergence of the rolling average and publication date figures. (The green line is the triangles and the blue line is the dotted line).</caption>
 </figure>
 
