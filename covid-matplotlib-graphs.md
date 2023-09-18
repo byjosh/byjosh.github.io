@@ -36,7 +36,7 @@ A more prosaic use of plotting dual axes shows the rolling 7 day average and the
 
 ## The rise of Omicron
 
-As you'd expect the rise of the Omicron variant shows up in the charts.
+As you'd expect the rise of the <a class="external" href="https://en.wikipedia.org/wiki/SARS-CoV-2_Omicron_variant">Omicron variant</a> shows up in the charts.
 <figure>
 <img alt="For autumn 2021 this graph shows steady case numbers for UK in the thirty to forty thousand cases per day range until shortly after the 9th of December 2021 when cases rise sharply to eighty thousand a day by 20th December 2021" src="/assets/img/uploads/covid_matplotlib_graphs/cases_135d-2021-12-20.svg">
 <caption>In this graph of cases in 135 days to 2021/12/20 one can see the step change occasioned by the spread of the Omicron variant. (The green line is the triangles and the blue line is the dotted line).</caption>
