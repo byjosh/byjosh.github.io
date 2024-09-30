@@ -9,6 +9,7 @@ I am Josh, currently using this as a repository of links to useful information.
 * [My use of Matplotlib for some pandemic graphs](/covid-matplotlib-graphs)
 * [ESP32 analogue to digital (ADC) issue encountered in MicroPython & solution](/esp32-adc-micropython-issue)
 * [Unresponsive KORG NanoKey MIDI device fix on Windows 10](/fix-unresponsive-korg-nanokey-win10-midi)
+* [Setting up and using multiple monitors](/multi-monitor-setup) - notes basic keyboards shortcuts for window management and links to info on USB graphics adapters (which allow you to add more screens without needing new graphics card).
 
 
 ## Pandemic related
