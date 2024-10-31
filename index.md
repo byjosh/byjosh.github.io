@@ -10,6 +10,7 @@ I am Josh, currently using this as a repository of links to useful information.
 * [ESP32 analogue to digital (ADC) issue encountered in MicroPython & solution](/esp32-adc-micropython-issue)
 * [Unresponsive KORG NanoKey MIDI device fix on Windows 10](/fix-unresponsive-korg-nanokey-win10-midi)
 * [Setting up and using multiple monitors](/multi-monitor-setup) - notes basic keyboards shortcuts for window management and links to info on USB graphics adapters (which allow you to add more screens without needing new graphics card).
+* [How VGA connections might be better for font rendering on recent macOS compared to digital connections](/apple-antialiasing) - using a Mini DisplayPort to DVI adapter on macOS Monterey showed pixelated fonts compared to the same monitor but using a Mini DisplayPort to VGA adapter - this post discusses reasons and mentions DisplayPort monitors as another possible improvement.
 
 
 ## Pandemic related
