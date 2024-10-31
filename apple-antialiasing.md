@@ -18,7 +18,10 @@ A Mini DisplayPort to DisplayPort connection on a 1920 by 1200 pixel monitor als
 
 What definitely looked bad for font rendering was Mini DisplayPort to DVI.
 
-### Comment: why?
+### Software mitigation for 4K monitors:
+Apparently this issue may crop up even on 4K Monitors - e.g. [this Reddit comment](https://www.reddit.com/r/MacOS/comments/zzoew8/comment/j3q0si9/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button) - in which case programs like [BetterDisplay](https://github.com/waydabber/BetterDisplay/) may be able to help. In the case of BetterDisplay [this involves adding a resolution variant that is flagged as HiDPI](https://github.com/waydabber/BetterDisplay/discussions/678) - even if the screen is not natively recognised as HiDPI (though one has to sacrifice one pixel of the width as the OS does not allow two variants of the exact same resolution).
+
+### Comment: why does VGA work better?
 In terms of a logic to why things might be better on VGA at this resolution:- I have seen rendering speed being mentioned as a reason to turn off sub-pixel antialiasing in a context in which monitors can have much higher refresh rates as well as higher pixel counts. [This Apple Developer talk](https://developer.apple.com/videos/play/wwdc2021/10147/) covers ways in which displays might handle higher refresh rates. So while I cannot draw confident links between what I have observed and Apple changes it does seem to fit issues discussed in [more than](https://osxdaily.com/2022/04/06/change-remove-font-smoothing-macos/) [the Apple forums post](https://discussions.apple.com/thread/250998388?sortBy=rank) and digital monitor connections having to handle HiDPI monitors (that do not need subpixel rendering) and faster refresh rates (that put a premium on faster graphics rendering especially in context of HiDPI displays) it does make speed seem plausible cause for a change in font treatment.
 
 So it does make a little more sense that VGA output might get a font treatment that takes more time but looks better at lower resolutions. Because in this situation - due to the age of VGA - the developers can be confident:-
