@@ -1,4 +1,4 @@
-## Better font anti-aliasing on 1080p or low resolution monitors on recent macOS Monterey
+## Better font anti-aliasing on 1080p or low resolution monitors on recent macOS versions
 Problem: after macOS Mojave [apparently Apple nuked sub-pixel anti-aliasing](https://discussions.apple.com/thread/250998388?sortBy=rank) - an effect that makes fonts smoother and less pixelated/jaggy.
 
 My workaround: use a VGA connection - and maybe a DisplayPort connection.
