@@ -11,6 +11,7 @@ I am Josh, currently using this as a repository of links to useful information.
 * [Unresponsive KORG NanoKey MIDI device fix on Windows 10](/fix-unresponsive-korg-nanokey-win10-midi)
 * [Setting up and using multiple monitors](/multi-monitor-setup) - notes basic keyboards shortcuts for window management and links to info on USB graphics adapters (which allow you to add more screens without needing new graphics card).
 * [How VGA connections might be better for font rendering on recent macOS compared to digital connections](/apple-antialiasing) - using a Mini DisplayPort to DVI adapter on macOS Monterey showed pixelated fonts compared to the same monitor but using a Mini DisplayPort to VGA adapter - this post discusses reasons and mentions DisplayPort monitors as another possible improvement.
+* [Data portability from Wix style GUI website makers is dire - but save by filtering for small sites](/data-portability-is-dire-from-wix-style-sites-but-saved-by-filtering.md) - for small sites advances in filtering pasted HTML make moving a small site (sub dozen pages) between platforms like Wix, Wordpress.com, Squarespace bettering that might be expected (filtering advances probably done to aid customer acquistion/retention). Came out of writing this with better opinion of platforms than before. 
 
 
 ## Pandemic related
