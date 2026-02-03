@@ -1,6 +1,6 @@
 ## Pico Fido may need udev rules for certain snaps - e.g. on Ubuntu
 
-[The Pico Fido project](https://github.com/polhenarejos/pico-fido) recently received 3 [offical USB Vendor and Product IDs](https://www.picokeys.com/2026/01/24/picokeys-devices-receive-official-vid-pids/). 
+[The Pico Fido project](https://github.com/polhenarejos/pico-fido) recently received 3 [official USB Vendor and Product IDs](https://www.picokeys.com/2026/01/24/picokeys-devices-receive-official-vid-pids/). 
 
 Before that it used the dummy IDs `feff` as Vendor ID and `fcfd` as the product ID.
 On Windows 11 that did not cause any issues - nor on Fedora Linux. But for [snap based](https://snapcraft.io/) browsers like on Ubuntu that might create access issues (as Snaps can have reduced access to the system via [confinement](https://snapcraft.io/docs/snap-confinement)).
