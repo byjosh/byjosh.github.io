@@ -6,7 +6,7 @@
 [ 3647.545527] FAT-fs (sdb1): unable to read boot sector to mark fs as dirty
 ```
 
-If you encounter this error - as seen in above [dmesg](https://en.wikipedia.org/wiki/Dmesg) output - while using a Pico (flashing different firmwares is what I have seen as the trigger) then a solution is erasing all of the flash with a special file mentioned/provided as part of [the documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory) which links to [this UF2 file](https://datasheets.raspberrypi.com/soft/flash_nuke.uf2) and the [code on GitHub](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c). Also [found here among the repositories of the Pico Keys maker](https://github.com/polhenarejos/pico-nuke).
+If you encounter this error - as seen in above [dmesg](https://en.wikipedia.org/wiki/Dmesg) output - while using a Pico (flashing different firmwares is what I have seen as the trigger) then a solution is erasing all of the flash with a special file mentioned/provided as part of [the documentation](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html#resetting-flash-memory) which links to [this flash_nuke.uf2 file](https://datasheets.raspberrypi.com/soft/flash_nuke.uf2) and the [code on GitHub](https://github.com/raspberrypi/pico-examples/blob/master/flash/nuke/nuke.c). Also [found here among the repositories of the Pico Keys maker](https://github.com/polhenarejos/pico-nuke).
 
 ### Path to this solution when not a lot of search results for the Pi Pico buffer I/O error
 
