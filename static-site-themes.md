@@ -1,4 +1,8 @@
-## List of GitHub pages themes and their previews 
+---
+title: List of static site themes and their previews 
+---
+
+## GitHub pages themes and their previews 
 
 As GitHub pages themes are well-known and well supported as static site themes having a list of the themes and their previews seems useful. 
 The preview link demos the theme - the repository has the theme and its documentation.
